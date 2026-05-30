@@ -1,0 +1,6 @@
+# 본 강의 실습 코드 의존성
+# 설치:  python -m pip install -r requirements.txt
+#
+# pymodbus 는 버전에 따라 API가 달라집니다. 본 강의는 3.6.x 기준으로 작성/검증되었습니다.
+pymodbus==3.6.9
+pyserial==3.5
